@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pupillometry_v1</string>
+    <string name="Tutorial_page_content">This will soon include a tutorial to explain everything else that takes place in the application. Hopefully this will oneday shed some light on everything that is about to occur!</string>
+    <string name="tests_begin_shortly_text">Tests will begin shortly</string>
+    <string name="between_test1_and_test2">Test 1 finished, please wait for test 2 to start...</string>
+    <string name="between_test2_and_test3">Test 2 finished, please wait for test 3 to start...</string>
+    <string name="between_test3_and_test4">Test 3 finished, please wait for test 4 to start...</string>
+    <string name="tests_finished">All tests finished, please wait to be directed back to the home page</string>
+    <string name="completed_processing">Completed processing</string>
+</resources>
